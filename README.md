@@ -11,7 +11,7 @@ spending extra time learning a specific programming language.
 This tool incorporates already developed engines inside
 Microsoft Windows, and extends with external console 
 applications such as .NET, Python, C/C++, C#, VB, or other 
-languages that can create console apps.
+languages that can create console applications.
 
 
 
