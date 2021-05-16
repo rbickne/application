@@ -2,7 +2,7 @@
 My Personal Programmer Development Tool
  
 My Personal Programmer is a code-free Windows development
-tool designed for building applications including teaching
+tool designed for building applications, including teaching
 new developers and students basic programming logic and
 event-driven learning. Making this tool available on GitHub to
 help programmers and non-programmers write applications quickly
