@@ -1,17 +1,12 @@
 # application
-My Personal Programmer Development Tool
+WinCloud Studio Development Tool
  
-My Personal Programmer is an integratated Windows development
-tool designed for building applications, including teaching
-new developers and students basic programming logic and
-event-driven development. Making this tool available on GitHub to
-help programmers and non-programmers write applications quickly
-while learning end-user computing techniques without 
-spending extra time learning a specific programming language. 
-This tool incorporates already developed components inside
-of Microsoft Windows, and extends with external languages
-such as .NET, Python, C/C++, C#, VB, and other programming
-development tools.
+WinCloud Studio is an integratated Windows application development
+tool designed for building both desktop and cloud applications. 
+This development tool is designed to give programmers a quick way
+of writing applications for Microsoft Windows, increasing productivity 
+and time to market, saving many hours of development and expense using 
+traditional development tools.
 
 
 
