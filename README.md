@@ -1,12 +1,7 @@
 # application
-WinCloud Studio Development Tool
+My Personal Programmer
  
-WinCloud Studio is an integratated Windows application development
-tool designed for building both desktop and cloud applications. 
-This development tool is designed to give programmers a quick way
-of writing applications for Microsoft Windows, increasing productivity 
-and time to market, saving many hours of development and expense using 
-traditional development tools.
+My Personal Programmer is a development studio designed to quickly create desktop or cloud-based applications using Microsoft® Windows. With no prior experience coding, you can easily develop custom applications for business and client workflows. Build applications fast, saving hours of time and expense compared to using traditional programming languages. Publish applications on the cloud or webserver for enterprise deployment, increasing ROI on each application developed.
 
 
 
