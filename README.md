@@ -1,2 +1,2 @@
 # application
-CodeJinga™ is an easy-to-use development studio to create desktop and cloud applications designed using C++, CSharp, Javascript, or Visual Basic with Microsoft® Windows. Develop for home, business, and education. Publish using shared or web resources, providing access to the applications you create.
+CodeJinga™ is an easy-to-use development studio to create desktop, cloud and AI applications designed using C/C++, CSharp, Javascript, Visual Basic, HTML, CSS, SQL and other lanaguages with Microsoft® Windows. Allows for mixing coding languages to build the final product. Develop for home, business, and education. Publish using shared or web resources, providing access to the applications you create.
